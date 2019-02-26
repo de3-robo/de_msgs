@@ -1,0 +1,22 @@
+float64 h_x
+float64 h_y
+float64 h_z
+float64 h_wx
+float64 h_wy
+float64 h_wz
+
+float64 b_x
+float64 b_y
+float64 b_z
+float64 b_wx
+float64 b_wy
+float64 b_wz
+
+float64 g_x
+float64 g_y
+float64 g_z
+float64 g_wx
+float64 g_wy
+float64 g_wz
+---
+bool success
